@@ -1,3 +1,3 @@
 
-require('./lib/bot');
-require('./lib/server');
+// require('./lib/bot');
+// require('./lib/server');
