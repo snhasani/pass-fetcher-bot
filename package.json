@@ -1,0 +1,32 @@
+{
+  "name": "pass-fetcher-bot",
+  "version": "0.0.1",
+  "description": "A telegram bot for fetch free vpn accounts password's from vpnbook.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/snhasani/pass-fetcher-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snhasani/pass-fetcher-bot.git/issues"
+  },
+  "homepage": "https://github.com/snhasani/pass-fetcher-bot.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "openvpn",
+    "vpn",
+    "vpnbook",
+    "scraper"
+  ],
+  "author": "Seyed Naser Hasani",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.13.3",
+    "node-telegram-bot-api": "~0.18.0",
+    "scraperjs": "~1.2.0"
+  }
+}
