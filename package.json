@@ -1,6 +1,6 @@
 {
   "name": "pass-fetcher-bot",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A telegram bot for fetch free vpn accounts password's from vpnbook.com",
   "main": "index.js",
   "repository": {
